@@ -105,5 +105,5 @@ Sample image © Wikipedia / Wikimedia Commons.
 
 - DDColor implementation by [piddnad/DDColor](https://github.com/piddnad/DDColor)  
 - Model provided by [ModelScope](https://modelscope.cn/models/damo/cv_ddcolor_image-colorization)
-- Sample image from Wikipedia: *[Bardeen, Shockley, and Brattain (1948)](https://en.wikipedia.org/wiki/History_of_the_transistor#/media/File:Bardeen_Shockley_Brattain_1948.JPG)*  
+- Sample image from Wikipedia: *[John Bardeen, William Shockley and Walter Brattain at Bell Labs, 1948](https://en.wikipedia.org/wiki/History_of_the_transistor#/media/File:Bardeen_Shockley_Brattain_1948.JPG)*  
 
