@@ -68,7 +68,7 @@ It includes a simple **Jupyter Notebook** to test the model on sample grayscale 
 
 **Input (B/W)** → **Output (Colorized)**
 
-| Black & White | Colorized |
+| Black & White | Colorized Image |
 |----------------|------------|
 | ![Input](https://raw.githubusercontent.com/cyamahat/Photo-Colorization-DDColor/refs/heads/main/sample_image.png) | ![Output](https://raw.githubusercontent.com/cyamahat/Photo-Colorization-DDColor/refs/heads/main/sample_image_colorized_(what_you_will_get).png) |
 
