@@ -79,7 +79,7 @@ It includes a simple **Jupyter Notebook** to test the model on sample grayscale 
 
 ![Colorization examples](https://raw.githubusercontent.com/cyamahat/Photo-Colorization-DDColor/refs/heads/main/colorization_examples_DDColor.jpg)
 
-*Other examples: Churchill | Chaplin (Modern Times) | Battle of Iwo Jima (1945) | Solvay conference (1927) | Françoise Hardy (New York, 1965) |Farm house (Carroll County, Georgia, 1941) | Sailor in Breech (1908), Bardeen, Shockley, and Brattain (1948) | Einstein (1951)*
+*Other examples: Churchill (1941) | Chaplin (Modern Times) | Battle of Iwo Jima (1945) | Solvay conference (1927) | Françoise Hardy (New York, 1965) |Farm house (Carroll County, Georgia, 1941) | Sailor in Breech (1908), Bardeen, Shockley, and Brattain (1948) | Einstein (1951)*
 
 ---
 
