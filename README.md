@@ -75,7 +75,7 @@ It includes a simple **Jupyter Notebook** to test the model on sample grayscale 
 *Sample image: [Bardeen, Shockley, and Brattain (1948)](https://en.wikipedia.org/wiki/History_of_the_transistor#/media/File:Bardeen_Shockley_Brattain_1948.JPG)*  
 (Used for demonstration under Wikipedia Commons licensing.)
 
-[Colorization examples](https://raw.githubusercontent.com/cyamahat/Photo-Colorization-DDColor/refs/heads/main/colorization_examples_DDColor.jpg)
+![Colorization examples](https://raw.githubusercontent.com/cyamahat/Photo-Colorization-DDColor/refs/heads/main/colorization_examples_DDColor.jpg)
 ---
 
 ## 🧠 Model Reference
