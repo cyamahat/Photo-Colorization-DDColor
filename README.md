@@ -70,7 +70,7 @@ It includes a simple **Jupyter Notebook** to test the model on sample grayscale 
 
 | Black & White Photograph | Colorized |
 |----------------|------------|
-| <img src="https://raw.githubusercontent.com/cyamahat/Photo-Colorization-DDColor/refs/heads/main/sample_image.png" width="300"/> | <img src="https://raw.githubusercontent.com/cyamahat/Photo-Colorization-DDColor/refs/heads/main/sample_image_colorized_(what_you_will_get).png" width="300"/> |
+| <img src="https://raw.githubusercontent.com/cyamahat/Photo-Colorization-DDColor/refs/heads/main/sample_image.png" width="450"/> | <img src="https://raw.githubusercontent.com/cyamahat/Photo-Colorization-DDColor/refs/heads/main/sample_image_colorized_(what_you_will_get).png" width="450"/> |
 
 *Sample image: [Bardeen, Shockley, and Brattain (1948)](https://en.wikipedia.org/wiki/History_of_the_transistor#/media/File:Bardeen_Shockley_Brattain_1948.JPG)*  
 (Used for demonstration under Wikipedia Commons licensing.)
